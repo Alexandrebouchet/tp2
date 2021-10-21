@@ -16,12 +16,13 @@
 	<properties>
 		<java.version>11</java.version>
 		<jacoco-maven-plugin.version>0.8.4</jacoco-maven-plugin.version>
-	</properties>
-
-	<properties>
- 		<sonar.organization>alexandrebouchet</sonar.organization>
+		<sonar.organization>alexandrebouchet</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
+
+	
+ 		
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
